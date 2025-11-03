@@ -1,4 +1,4 @@
-# 🍬 Candy Collector
+# Candy Collector 🍬
 
 **Candy Collector** is a fun and colorful arcade-style game built using **C#** and the **Unity Engine**.  
 Your goal is simple — collect as many candies as you can before time runs out! 🍭  
@@ -7,13 +7,9 @@ Dodge obstacles, grab treats, and rack up a sweet high score!
 
 👉 **Play it now on itch.io:** [https://fadhelalmalki.itch.io/candy-collector](https://fadhelalmalki.itch.io/candy-collector)
 
----
-
 ## 🎥 Game Preview
 
-
-
----
+https://github.com/user-attachments/assets/634e7d99-ddc6-46fa-be8a-ee5191a1f405
 
 ## 🧩 Features
 
@@ -22,8 +18,6 @@ Dodge obstacles, grab treats, and rack up a sweet high score!
 - Countdown timer ⏳  
 - Score tracking system 🧮  
 - Replayable for high-score challenges 🏆  
-
----
 
 ## 🎮 How to Play
 
@@ -35,11 +29,14 @@ Dodge obstacles, grab treats, and rack up a sweet high score!
 
 ## 🖼️ Screenshots
 
-| Game Background | Game Start |
-|---------------|-----------|
-| ![Game Background](images/1.jpg) | ![Game Start](images/2.png) |
+### Game Background
+![Game Background](images/1.jpg)
 
-| Level 1 scene | Level 2 scene |
-|----------------|-------------|
-| ![Level 1 scene](images/3.png) | ![Level 2 scene](images/4.png) |
+### Game Start
+![Game Start](images/2.png)
 
+### Level 1 Scene
+![Level 1 Scene](images/3.png)
+
+### Level 2 Scene
+![Level 2 Scene](images/4.png)
